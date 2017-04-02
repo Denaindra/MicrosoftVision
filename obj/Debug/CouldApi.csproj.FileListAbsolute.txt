@@ -1,0 +1,12 @@
+F:\Save Files\MicrosoftImageProcessing\CouldApi\CouldApi\bin\Debug\CouldApi.exe.config
+F:\Save Files\MicrosoftImageProcessing\CouldApi\CouldApi\obj\Debug\CouldApi.csprojResolveAssemblyReference.cache
+F:\Save Files\MicrosoftImageProcessing\CouldApi\CouldApi\obj\Debug\CouldApi.Form1.resources
+F:\Save Files\MicrosoftImageProcessing\CouldApi\CouldApi\obj\Debug\CouldApi.Properties.Resources.resources
+F:\Save Files\MicrosoftImageProcessing\CouldApi\CouldApi\obj\Debug\CouldApi.csproj.GenerateResource.Cache
+F:\Save Files\MicrosoftImageProcessing\CouldApi\CouldApi\bin\Debug\CouldApi.exe
+F:\Save Files\MicrosoftImageProcessing\CouldApi\CouldApi\bin\Debug\CouldApi.pdb
+F:\Save Files\MicrosoftImageProcessing\CouldApi\CouldApi\bin\Debug\Microsoft.ProjectOxford.Vision.dll
+F:\Save Files\MicrosoftImageProcessing\CouldApi\CouldApi\bin\Debug\Newtonsoft.Json.dll
+F:\Save Files\MicrosoftImageProcessing\CouldApi\CouldApi\bin\Debug\Newtonsoft.Json.xml
+F:\Save Files\MicrosoftImageProcessing\CouldApi\CouldApi\obj\Debug\CouldApi.exe
+F:\Save Files\MicrosoftImageProcessing\CouldApi\CouldApi\obj\Debug\CouldApi.pdb
